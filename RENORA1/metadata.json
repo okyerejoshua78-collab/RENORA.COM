@@ -1,0 +1,8 @@
+{
+  "name": "RENORA — International Product & Opportunity Platform",
+  "description": "More Possibilities, Less Spending. Discover curated vehicles, properties, technology, and lifestyle products with transparent rules and international readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
